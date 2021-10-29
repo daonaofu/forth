@@ -8,6 +8,8 @@ public class Gittest {
         System.out.println("hello atguigu");
         System.out.println("hello world");
         System.out.println("hello lihu");
-        System.out.println("hello hello");
+        System.out.println("hello pull");
+        System.out.println("hello pull");
+        
     }
 }
